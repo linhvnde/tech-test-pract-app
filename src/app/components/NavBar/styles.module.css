@@ -1,0 +1,14 @@
+.navContainer {
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.link {
+display: flex;
+  justify-content: center;
+}
+.link:hover {
+transform: translateY(4px);
+text-shadow: #FC0 1px 0 10px;
+}
